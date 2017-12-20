@@ -1,0 +1,14 @@
+.cardtitle {
+    color: #3CB9F8;
+    border-bottom: 1px solid #3CB9F8;
+    padding: 5px;
+    /* margin-bottom: 5px; */
+}
+
+.question {
+    color: #00C0EF
+}
+
+.filter-container {
+    margin-bottom: 5px;
+}

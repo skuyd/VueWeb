@@ -1,0 +1,10 @@
+.pagination-container {
+    width: 60%;
+    float: left;
+}
+
+.download-container {
+    width: 38%;
+    float: left;
+    text-align: right;
+}
